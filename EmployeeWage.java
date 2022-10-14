@@ -1,4 +1,4 @@
-package day9_OOps_UC9;
+package day8_OOps_UC7;
 
 public class EmployeeWage {
 	public static void main(String[] args) {
